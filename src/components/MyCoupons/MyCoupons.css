@@ -1,0 +1,103 @@
+div.my-coupons{
+    display: inline-block;
+    background-color: white;
+    position: relative;
+    border-radius: 8px;
+    width: 358px;
+    height:  416px;
+    top: -176px;
+    left: 16px;
+    box-shadow: 0px 12px 18px rgba(23, 23, 37, 0.04);
+}
+div.avai-coin-balance{
+    width: 310px;
+    margin: 0 auto;
+    padding-top: 24px;
+}
+div.avai-coin-balance span{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #B5B5BE;
+}
+div.avai-coin-balance h1{
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.5px;
+    color: #171725;
+    padding-top: 8px;
+}
+div.load-line{
+height: 5px;
+
+margin-top: 33px;
+background: #E2E2EA;
+border-radius: 2.5px;
+}
+div.loaded-line{
+    height: 5px;
+    width: 65%;
+    background: #0d99ff;
+    border-radius: 2.5px;
+    }
+div.avai-coin-balance p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.005em;
+    color: #92929D;
+    padding-top: 34px;
+}
+div.view-tier-benefits{
+    width: 310px;
+    margin: 0 auto;
+    padding-top: 16px;
+}
+div.view-tier-benefits p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.005em;
+    color: #0062FF;
+    
+}
+div.view-tier-benefits p:after{
+    /* content: "";
+    display: block;
+    background: url('../../assets/images/go-icon.jpg') no-repeat ;
+    background-size: 24px; */
+    content: "";
+    display: block;
+    background: url('../../assets/images/go-icon.jpg') no-repeat;
+    width: 20px;
+    height: 20px;
+    float: right;
+    padding-left: 168px;
+}
+div.view-tier-benefits button{
+    width: 310px;
+    height: 60px;
+    background: #171725;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+    letter-spacing: -0.005em;
+}
+div.view-tier-benefits div {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+div.view-tier-benefits div span{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.005em;
+    color: #B5B5BE;
+}

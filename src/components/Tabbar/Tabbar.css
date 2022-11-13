@@ -1,0 +1,29 @@
+
+div.tab-bar{
+    width: 390px;
+    position: fixed;
+    /* display: block; */
+    /* background-color: white; */
+    bottom: 120px;
+    margin: 0 auto;
+}
+ul.tab-bar{
+    border-top: 2px solid #E2E2EA;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-left: -40px;
+    padding-bottom: 50px;
+    position: absolute;
+    background-color: white;
+}
+li.tab{
+    /* padding-left: 52px; */
+    display: inline-block;
+}
+
+li.tab img{
+    width: 40px;
+    height: 40px;
+}
